@@ -31,13 +31,13 @@ function convertToBool(text, fault = "true") {
 
 module.exports = {
   SESSION_ID:
-    process.env.SESSION_ID || "LgBWULAT#tQnNN6Tqtai5zk1XxVJW7CYLCAR3-mCVcboLUnmRN2I", // replace with your session ID
+    process.env.SESSION_ID || "n8wHWaIb#HfsZ4vFdpW1-Pf2IFePASEEsOYZle-TNsTJZDyhi7EQ", // replace with your session ID
   ALIVE_IMG:
     process.env.ALIVE_IMG || "https://github.com/Maliya-bro/MALIYA-MD/blob/main/images/WhatsApp%20Image%202026-01-18%20at%2012.37.23.jpeg?raw=true",
  ALIVE_MSG:
     process.env.ALIVE_MSG || "*Hello👋 MALIYA-MD Is Alive Now!😍😍😍.*",
 
-  BOT_OWNER: process.env.BOT_OWNER || "94702135392", // Replace with your whtasapp number
+  BOT_OWNER: process.env.BOT_OWNER || "94765744087", // Replace with your whtasapp number
 
   AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 
